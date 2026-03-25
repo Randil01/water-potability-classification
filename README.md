@@ -50,6 +50,11 @@ Model performance is evaluated using:
 
 This project is completed as part of the Machine Learning course group assignment. Each member contributes by implementing a different machine learning algorithm and participating in analysis and evaluation.
 
+* thenularandila2002@gmail.com
+* chandeepdina@gmail.com
+* denetheshaka519@gmail.com
+* hkenula@gmail.com
+  
 ## License
 
 This project is for educational purposes only.
